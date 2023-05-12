@@ -6,7 +6,7 @@ Rose      17    56
 Zyan      14    42
 */
 
-/* Multidimentional Array
+/* Multidimensional Array
 
 A multidimensional array is an array containing one or more arrays.
 Multidimensional arrays are used to store the data in a tabular form.
